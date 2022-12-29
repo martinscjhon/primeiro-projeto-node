@@ -1,0 +1,21 @@
+# requisitos para criação do novo projeto:
+
+[x] Deve ser possível criar uma conta;
+[x] Deve ser possível buscar histórico bancário;
+[x] Deve ser possível realizar depósito;
+[x] Deve ser possível realizar saque; 5. Deve ser possível buscar histórico bancário por data; 6. Deve ser possível atualizar dados do usuário; 7. Deve ser possível obter dados da conta do usuário; 8. Deve ser possível deletar usuário;
+
+# regras
+
+[x] Não deve ser possível cadastrar uma conta com CPF já existente;
+[x] Não deve ser possível fazer depósito em uma conta não existente;
+[x] Não deve ser possível buscar histórico em uma conta não existente;
+[x] Não deve ser possível fa em uma conta não existente;
+[x] Não deve ser possível excluir uma conta não existente; 6. Não deve ser possível fazer saque quando o saldo for negativo;
+
+# conta
+
+a. cpf
+b. nome
+c. id
+d. historico
